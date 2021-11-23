@@ -1,4 +1,4 @@
-class bags {
+class Bags {
     constructor(weight){
         this.weight = weight
         
@@ -13,4 +13,4 @@ class bags {
     }
 }
 
-module.exports = bags;
+module.exports = Bags;

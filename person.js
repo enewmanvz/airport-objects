@@ -1,7 +1,7 @@
 class Person {
-    constructor(name, bags)
+    constructor(name){
         this.name = name
-        this.bags =bags
+        this.bags = []
         }
         addBag(bag){
             this.bags.push(bag)
